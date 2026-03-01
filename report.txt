@@ -1,0 +1,15 @@
+Info: Processing symbol 'DOIT1:ESP32-DEVKIT-V1:MODULE_ESP32_DEVKIT_V1'.
+Info: Processing symbol 'J1:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'J2:Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical'.
+Info: Processing symbol 'J3:Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical'.
+Info: Processing symbol 'J4:Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical'.
+Info: Processing symbol 'J5:Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical'.
+Info: Total warnings: 0, errors: 0.
+Reconnected J1 pin 1 from /LED to +3.3V.
+Reconnected J3 pin 2 from /LED to +3.3V.
+Removed unused net /LED.
+
+
+
+
+Info: Total warnings: 0, errors: 0.

@@ -1,0 +1,30 @@
+** Drc report for demo.kicad_pcb **
+** Created on 2026-02-22T21:43:48+0200 **
+
+** Found 5 DRC violations **
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(112.9400 mm, 38.8400 mm): Zone 'GND' [GND] on B.Cu, priority 0
+    @(157.1400 mm, 118.2900 mm): PTH pad 2 [GND] of RF1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(112.9400 mm, 38.8400 mm): Zone 'GND' [GND] on B.Cu, priority 0
+    @(208.2400 mm, 84.2600 mm): PTH pad 3 [GND] of QBUZ1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(112.9400 mm, 38.8400 mm): Zone 'GND' [GND] on B.Cu, priority 0
+    @(132.6900 mm, 114.9650 mm): PTH pad 1 [GND] of 3.3vJ1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(112.9400 mm, 38.8400 mm): Zone 'GND' [GND] on B.Cu, priority 0
+    @(195.3400 mm, 118.9400 mm): PTH pad 1 [GND] of J1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(112.9400 mm, 38.8400 mm): Zone 'GND' [GND] on B.Cu, priority 0
+    @(208.4400 mm, 78.2800 mm): PTH pad 3 [GND] of QWIFI1
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
