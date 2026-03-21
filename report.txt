@@ -1,13 +1,37 @@
+Info: Processing symbol '3.3v1:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal'.
+Info: Processing symbol '3.3vJ1:Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'BZ1:Buzzer_Beeper:Buzzer_12x9.5RM7.6'.
+Info: Processing symbol 'C1:PCM_Capacitor_THT_AKL:CP_Radial_D6.3mm_P2.50mm'.
+Info: Processing symbol 'C2:PCM_Capacitor_THT_AKL:C_Disc_D3.8mm_W2.6mm_P2.50mm'.
+Info: Processing symbol 'C4:PCM_Capacitor_THT_AKL:CP_Radial_D6.3mm_P2.50mm'.
+Info: Processing symbol 'CS1:Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical'.
 Info: Processing symbol 'DOIT1:ESP32-DEVKIT-V1:MODULE_ESP32_DEVKIT_V1'.
-Info: Processing symbol 'J1:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
-Info: Processing symbol 'J2:Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical'.
-Info: Processing symbol 'J3:Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical'.
-Info: Processing symbol 'J4:Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical'.
-Info: Processing symbol 'J5:Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'J1:Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical'.
+Info: Processing symbol 'LED_w1:Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'LED_web1:Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'PWR1:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal'.
+Info: Processing symbol 'QBUZ1:PCM_Package_TO_SOT_THT_AKL:TO-92_Inline_Wide_CBE'.
+Info: Processing symbol 'QWEB1:PCM_Package_TO_SOT_THT_AKL:TO-92_Inline_Wide_CBE'.
+Info: Processing symbol 'QWIFI1:PCM_Package_TO_SOT_THT_AKL:TO-92_Inline_Wide_CBE'.
+Info: Processing symbol 'R1:LR0204F2K2:RESAD640W45L370D200'.
+Info: Processing symbol 'R2:LR0204F2K2:RESAD640W45L370D200'.
+Info: Processing symbol 'R3:LR0204F2K2:RESAD640W45L370D200'.
+Info: Processing symbol 'R4:LR0204F2K2:RESAD640W45L370D200'.
+Info: Processing symbol 'R5:LR0204F2K2:RESAD640W45L370D200'.
+Info: Processing symbol 'R6:LR0204F2K2:RESAD640W45L370D200'.
+Info: Processing symbol 'R7:LR0204F2K2:RESAD640W45L370D200'.
+Info: Processing symbol 'R8:LR0204F2K2:RESAD640W45L370D200'.
+Info: Processing symbol 'REM3:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'RF1:Ra-02 AI thinker:Ra-02 Ai Thinker'.
+Info: Processing symbol 'RST_LORA1:Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'SJT1:Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'SJT2:Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'SLED1:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'SPI1:Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical'.
+Info: Processing symbol 'TOUCH1:Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical'.
 Info: Total warnings: 0, errors: 0.
-Reconnected J1 pin 1 from /LED to +3.3V.
-Reconnected J3 pin 2 from /LED to +3.3V.
-Removed unused net /LED.
 
 
 

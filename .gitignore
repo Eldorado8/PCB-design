@@ -1,0 +1,13 @@
+.history/
+demo-backups/
+*.bak
+*.bck
+*-bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.sch-bak
+_autosave-*
+fp-info-cache/
+freerouting.dsn
+temp-freerouting.dsn
+log.txt

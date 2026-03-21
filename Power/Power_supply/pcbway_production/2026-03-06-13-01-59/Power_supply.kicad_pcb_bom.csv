@@ -1,0 +1,7 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Pins
+C1,1,C_Polarized,CP_Elec_3x5.3,,,,smt,Polarized capacitor,
+D1,1,KBPC1501W,Diode_Bridge_GeneSiC_KBPC_W,,,,tht,"Single-Phase Bridge Rectifier, 70V Vrms, 15A If, KBPC-W(WS)",
+D2,1,LED,LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm,,,,tht,Light emitting diode,1=K 2=A
+J1,1,Conn_01x02,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J2,1,Conn_01x02,"PhoenixContact_MSTBVA_2,5_2-G_1x02_P5.00mm_Vertical",,,,tht,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",
+R1,1,R,R_0201_0603Metric_Pad0.64x0.40mm,,,,smt,Resistor,
