@@ -1,0 +1,21 @@
+"Id;""Designator"";""Footprint"";""Quantity"";""Designation"";""Supplier and ref"";",,
+"1;""RV1"";""potentiometer_3362P"";1;""potentiometer_3362P"";;;",,
+"2;""QWIFI1",QBUZ1,"QWEB1"";""TO-92_Inline_Wide_CBE"";3;""BC337"";;;"
+"3;""PWR1","3.3v1"";""TerminalBlock_Phoenix_MKDS-1","5-2_1x02_P5.00mm_Horizontal"";2;""Conn_01x02"";;;"
+"4;""R5"";""RESAD640W45L370D200"";1;""LR0204F2K2"";;;",,
+"5;""BZ1"";""Buzzer_12x9.5RM7.6"";1;""Buzzer"";;;",,
+"6;""J7","J6"";""PinSocket_1x02_P2.54mm_Vertical"";2;""PINHD_1x2_Female"";;;",
+"7;""J1",LED_web1,"LED_w1"";""JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"";3;""Conn_01x02"";;;"
+"8;""REM3"";""PinHeader_1x03_P2.54mm_Vertical"";1;""Conn_01x03"";;;",,
+"9;""RF1"";""Ra-02 Ai Thinker"";1;""Ra-02 Ai Thinker"";;;",,
+"10;""J4","J3"";""JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"";2;""JST_02"";;;",
+"11;""CS1",SPI1,"TOUCH1"";""JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"";3;""Conn_01x04"";;;"
+"12;""U1"";""TO-220-3_Vertical"";1;""LM317T"";;;",,
+"13;""C2"";""C_Disc_D3.8mm_W2.6mm_P2.50mm"";1;""C_Disc_D3.8mm_W2.6mm_P2.50mm"";;;",,
+"14;""J5"";""PinHeader_1x04_P2.54mm_Vertical"";1;""Conn_01x04"";;;",,
+"15;""R3",R2,"R7"";""RESAD640W45L370D200"";3;""PS"";;;"
+"16;""DOIT1"";""MODULE_ESP32_DEVKIT_V1"";1;""ESP32-DEVKIT-V1"";;;",,
+"17;""R9"";""RESAD640W45L370D200"";1;""220"";;;",,
+"18;""J2"";""PinHeader_1x07_P2.54mm_Vertical"";1;""JST_07"";;;",,
+"19;""C1","C3"";""CP_Radial_D6.3mm_P2.50mm"";2;""CP_Radial_D6.3mm_P2.50mm"";;;",
+"20;""R6",R4,"R1"";""RESAD640W45L370D200"";3;""CL"";;;"

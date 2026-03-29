@@ -1,0 +1,15 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J9,J10,J8";"JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical";3;"JST_02";;;
+2;"J1";"Barrel_Jack_PTH";1;"Barrel_Jack_PTH";;;
+3;"R1,R2,R3";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";3;"Resistor";;;
+4;"J12";"JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical";1;"JST_03";;;
+5;"U2";"CONV_BOB-12009";1;"BOB-12009";;;
+6;"C1";"CP_Radial_D5.0mm_P2.50mm";1;"Capacitor_PO";;;
+7;"RV1";"potentiometer_3362P";1;"potentiometer_3362P";;;
+8;"J3,J6,J4,J2,J7,J5";"JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical";6;"Conn_01x04";;;
+9;"A1";"Arduino_Nano";1;"Arduino_Nano_v3.x";;;
+10;"C2";"C_Disc_D3.0mm_W2.0mm_P2.50mm";1;"Capacitor_NP";;;
+11;"U1";"TO-220-3_Vertical";1;"LM317T";;;
+12;"RF1";"Ra-02 Ai Thinker";1;"Ra-02 Ai Thinker";;;
+13;"D1";"LED_D3.0mm";1;"LED";;;
+14;"J11";"PinHeader_1x02_P2.54mm_Horizontal";1;"Conn_01x02";;;
